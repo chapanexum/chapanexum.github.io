@@ -8,4 +8,4 @@ pre = "<b> </b>"
 
 ### Resumo das matérias do 2º ano do ensino médio
 
-{{%attachments title="Resumos de Bernardo Basques" pattern=".*\.(pdf|mp4)$"/%}}
+{{%attachments title="Resumos de alunos de 2022" pattern=".*\.(pdf|mp4)$"/%}}
