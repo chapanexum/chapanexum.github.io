@@ -8,7 +8,7 @@ pre = "<b>3. </b>"
 
 ### Monitorias
 
-As monitorias, que são o motivo da criação desse projeto, são um modo de alunos ajudarem outros alunos. Para isso, vamos utilizar do discord para criar salas de conversa, onde voluntários possam ajudar seus colegas.
+As monitorias, que são o motivo da criação desse projeto, são um modo de alunos ajudarem outros alunos. Para isso, vamos utilizar do discord para criar salas de conversa, onde voluntários possam ajudar seus colegas, seja dando aulas ou explicando exercícios uns aos outros.
 
 Essa prática auxilia ambos e, por isso, acreditamos que ela seja muito importante.
 

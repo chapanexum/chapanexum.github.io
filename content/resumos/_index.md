@@ -10,4 +10,4 @@ pre = "<b>1. </b>"
 
 Aqui estarão os resumos feitos por estudantes
 
-Caso você queira que seu resumo venha pra cá basta mandá-lo no nosso servidor do discord, link na sessão das monitorias
+Caso você queira que seu resumo venha pra cá basta mandá-lo no nosso servidor do discord, link na sessão das monitorias.
