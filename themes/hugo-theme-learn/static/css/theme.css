@@ -105,7 +105,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     background: #8451a1;
     color: #fff;
     text-align: center;
-    border-bottom: 4px solid #9c6fb6;
+    border-bottom: 4px solid #252c31;
     padding: 1rem;
 }
 #header a {
@@ -310,7 +310,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     padding: 4px 0;
 }
 #sidebar ul li.visited > a .read-icon {
-    color: #9c6fb6;
+    color: #252c31;
     display: inline;
 }
 #sidebar ul li li {
@@ -668,14 +668,14 @@ hr {
     padding: 25px;
     float: left;
     clear: both;
-    background: #9c6fb6;
+    background: #252c31;
     color: #fff;
 }
 #body a.anchor-link {
     color: #ccc;
 }
 #body a.anchor-link:hover {
-    color: #9c6fb6;
+    color: #252c31;
 }
 #body-inner .tabs-wrapper.ui-theme-badges {
     background: #1d1f21;
@@ -712,7 +712,7 @@ td {
     border: 1px solid #eaeaea;
 }
 .button {
-    background: #9c6fb6;
+    background: #252c31;
     color: #fff;
     box-shadow: 0 3px 0 #00a5d4;
 }
@@ -773,7 +773,7 @@ td {
 }
 .bullet-icon {
     float: left;
-    background: #9c6fb6;
+    background: #252c31;
     padding: 0.875rem;
     width: 3.5rem;
     height: 3.5rem;
@@ -783,7 +783,7 @@ td {
     text-align: center;
 }
 .bullet-icon-1 {
-    background: #9c6fb6;
+    background: #252c31;
 }
 .bullet-icon-2 {
     background: #00f3d8;
@@ -1128,10 +1128,10 @@ pre .copy-to-clipboard:hover {
 }
 
 #homelinks {
-  background-color: #9c6fb6;
+  background-color: #252c31;
   color: #fff;
   padding: 7px 0;
-  border-bottom: 4px solid #9c6fb6;
+  border-bottom: 4px solid #252c31;
 }
 
 #searchResults {
